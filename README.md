@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Artificial Intelligence and Data Science.
 - 💞️ I’m looking to collaborate on Data Science projects.
 - 📫 How to reach me yamunasri1810@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: I am an kpop fan.
 
 <!---
